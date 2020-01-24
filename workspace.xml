@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26bc32f7-98f9-489f-8418-98cf20f234b4" name="Default Changelist" comment="Updated readme">
+      <change afterPath="$PROJECT_DIR$/examples/execute_query_async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/execute_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connections/conf.ini" beforeDir="false" afterPath="$PROJECT_DIR$/connections/conf.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/create_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/create_connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/execute_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/execute_query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testconnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/testconnection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/sf_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/sf_operations.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vb8UXLer27Kz1oCzeynamjzJKZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\snowflake-sdk\snowflake-python-sdk\examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.execute_script">
+    <configuration name="create_connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="snowflake-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/create_connection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execute_query" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="snowflake-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/execute_query.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execute_query_async" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="snowflake-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/execute_query_async.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execute_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="snowflake-python-sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/execute_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.execute_script" />
+        <item itemvalue="Python.execute_query_async" />
+        <item itemvalue="Python.execute_query" />
+        <item itemvalue="Python.create_connection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26bc32f7-98f9-489f-8418-98cf20f234b4" name="Default Changelist" comment="" />
+      <created>1577510449347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577510449347</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1577510817569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577510817570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated readme">
+      <created>1577511432699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577511432699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated readme">
+      <created>1577511672287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577511672287</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated readme">
+      <created>1577511849718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577511849718</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated readme">
+      <created>1577511955740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577511955740</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated readme">
+      <created>1577512080909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577512080909</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated readme">
+      <created>1577512138008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577512138008</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated readme">
+      <created>1577512169164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577512169164</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated readme">
+      <created>1577769529689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577769529689</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Updated readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="36" key="CommitChangelistDialog2" timestamp="1577512169001">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="345" y="36" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1577512169001" />
+    <state width="1367" height="197" key="GridCell.Tab.0.bottom" timestamp="1577510653346">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1367" height="197" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1577510653346" />
+    <state width="1367" height="197" key="GridCell.Tab.0.center" timestamp="1577510653345">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1367" height="197" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1577510653345" />
+    <state width="1367" height="197" key="GridCell.Tab.0.left" timestamp="1577510653345">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1367" height="197" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1577510653345" />
+    <state width="1367" height="197" key="GridCell.Tab.0.right" timestamp="1577510653345">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1367" height="197" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1577510653345" />
+    <state x="223" y="70" key="SettingsEditor" timestamp="1577510603802">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="223" y="70" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1577510603802" />
+    <state x="314" y="172" key="Vcs.Push.Dialog.v2" timestamp="1577512170788">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="314" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.816@0.23.1440.816" timestamp="1577512170788" />
+  </component>
+</project>
