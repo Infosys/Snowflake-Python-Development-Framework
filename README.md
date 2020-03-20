@@ -1,17 +1,18 @@
 # Snowflake-Python-Development-Framework
 snowflake sdk for python
 
-This package has been built to help developers build applications using snowflake quickly. below are some examples on how to work with this package
+This package has been built to help developers build applications using snowflake quickly. Below listed are some examples on how to work with this package
 
-# create a snowflake connection
-You can create the connection using either a private key or a password. The connection details will need to be upated in the conf.ini file
+# Create a snowflake connection
+You can create the connection using either a private key or password. The connection details have to be upated in the conf.ini file
 
-sample code
+Sample code
 --------------
-Connecting to snowflake:
-------------------------------
 
-The below piece of code conects to snowflake and returnd the connection, statuscode and statusmessage:
+Connecting to snowflake
+------------------------
+
+The below piece of code connects to snowflake and returns the connection object, statuscode and statusmessage
 
 ```python
 
@@ -111,7 +112,7 @@ print (executionresult,statuscode,statusmessage)
 sfconnection.close()
 ```
 
-Below features are currently in development progress
+Below features are currently in development
 ------------------------------------------------------
 1. Put file to a stage after splitting into multiple files
 2. Compress files before putting them to stage
