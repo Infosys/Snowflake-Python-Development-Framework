@@ -1,5 +1,5 @@
 # Snowflake-Python-Development-Framework
-snowflake sdk for python
+Snowflake SDK for python
 
 This package has been built to help developers build applications using snowflake quickly. Below listed are some examples on how to work with this package
 
