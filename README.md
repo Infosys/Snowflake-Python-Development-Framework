@@ -4,7 +4,7 @@ Snowflake SDK for python
 This package has been built to help developers build applications using [snowflake](https://www.snowflake.com) quickly. Below listed are some examples on how to work with this package
 
 # Create a snowflake connection
-You can create the connection using either a [private key](https://docs.snowflake.com/en/user-guide/snowsql-start.html#using-key-pair-authentication) or [password](https://docs.snowflake.com/en/user-guide/snowsql-start.html#specifying-passwords-when-connecting). The connection details have to be upated in the conf.ini file
+You can create the connection using either a [private key](https://docs.snowflake.com/en/user-guide/snowsql-start.html#using-key-pair-authentication) or [password](https://docs.snowflake.com/en/user-guide/snowsql-start.html#specifying-passwords-when-connecting). The connection details have to be upated in the [conf.ini](./connections/conf.ini) file
 
 Sample code
 --------------
