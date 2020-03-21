@@ -3,14 +3,8 @@ Snowflake SDK for python
 
 This package has been built to help developers build applications using [snowflake](https://www.snowflake.com) quickly. Below listed are some examples on how to work with this package
 
-# Create a snowflake connection
+## Create a snowflake connection
 You can create the connection using either a [private key](https://docs.snowflake.com/en/user-guide/snowsql-start.html#using-key-pair-authentication) or [password](https://docs.snowflake.com/en/user-guide/snowsql-start.html#specifying-passwords-when-connecting). The connection details have to be upated in the [conf.ini](./connections/conf.ini) file
-
-Sample code
---------------
-
-Connecting to snowflake
-------------------------
 
 The below piece of code connects to snowflake and returns the connection object, statuscode and statusmessage
 
@@ -28,8 +22,8 @@ statusmessage = sfconnectionresults.get('statusmessage')
 print(sfconnection,statuscode,statusmessage)
 
 ```
-Execute a query in snowflake:
------------------------------------
+
+## Execute a query in snowflake
 The below piece of code executes a query in snowflake
 
 ```python
@@ -56,8 +50,8 @@ for results in executionresult:
 sfconnection.close()
 
 ```
-Execute a query in snowflake in asynchrouos mode:
-------------------------------------------------
+
+## Execute a query in snowflake in asynchrouos mode
 This uses the same function but with asyncflag as true
 
 ```python
@@ -80,8 +74,8 @@ statuscode = queryresult.get('statuscode')
 statusmessage = queryresult.get('statusmessage')
 
 ```
-Execute a snowflake script in snowflake:
-------------------------------------------------
+
+## Execute a snowflake script in snowflake
 This feature can be used to execute a script file with one or
 more snowflake queries
 
@@ -112,8 +106,9 @@ print (executionresult,statuscode,statusmessage)
 sfconnection.close()
 ```
 
+
 Below features are currently in development
-------------------------------------------------------
+
 1. Put file to a stage after splitting into multiple files
 2. Compress files before putting them to stage
 3. Archive files after putting them to stage
